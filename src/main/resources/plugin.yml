@@ -1,4 +1,8 @@
 name: MinecraftDrain
-version: '1.0.0-SNAPSHOT'
+version: '1.0.0'
 main: com.csmcclain.minecraftDrain.MinecraftDrain
-api-version: '1.21'
+api-version: '1.21.1'
+commands:
+  drain:
+    description: Drains all water in a 3x3 chunk block around a player.
+    usage: "/drain"

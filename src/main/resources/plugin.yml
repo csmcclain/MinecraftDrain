@@ -1,0 +1,4 @@
+name: MinecraftDrain
+version: '1.0.0-SNAPSHOT'
+main: com.csmcclain.minecraftDrain.MinecraftDrain
+api-version: '1.21'
